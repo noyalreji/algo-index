@@ -44,7 +44,6 @@ var phone_keys = {
     0: ' ',
 }
 
-// TIMMY CHONGA SOLUTION
 
 function telephoneWords(input, output = [], position = 0, partial = "") {
 
