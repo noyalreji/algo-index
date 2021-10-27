@@ -49,7 +49,7 @@ function telephoneWords(input, output = [], position = 0, partial = "") {
 
     input = input.toString();
 
-    // end the recursion once we get to the end of the input
+    /// end the recursion once we get to the end of the input
     if (position == input.length) {
         output.push(partial);
     }
