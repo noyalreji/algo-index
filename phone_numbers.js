@@ -1,4 +1,4 @@
-// telephoneWords(input, output = [], ... ?)
+/// telephoneWords(input, output = [], ... ?)
 // input is a string of digits -> '83461' (emphasis on string)
 // output is an array of all 'words' (strings) representable by translating
 // those digits to what's on a telephone keypad
